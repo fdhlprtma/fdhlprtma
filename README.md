@@ -24,11 +24,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Yoo Broo 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻 Yoo Broo!</h3>
+<h3 align="left"></h3>
 
 ###
 
@@ -63,11 +63,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fdhlprtma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=fdhlprtma&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+##
 
+<h3 align="left">🔥   My Spotify :</h3>
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1" alt="Spotify recently played" />
+</div>
 
 ###
 
@@ -78,3 +82,4 @@
 </picture>
 
 ###
+
