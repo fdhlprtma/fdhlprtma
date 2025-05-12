@@ -71,7 +71,7 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1" alt="Spotify recently played" />
 </div>
 
-###
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fdhlprtma/fdhlprtma/output/pacman-contribution-graph-dark.svg">
