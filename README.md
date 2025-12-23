@@ -4,10 +4,10 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=fdhlprtma&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fdhlprtma&layout=compact&card_width=320&theme=tokyonight" height="150" />
-</div>
+</div> -->
 
 ###
 
