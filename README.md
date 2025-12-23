@@ -1,10 +1,10 @@
-<!-- <h2 align="left">
-  Hi 👋! My name is Fadhil, I'm a <b>Full-Stack Developer</b> & <b>UI/UX Designer</b> from Indonesia 🇮🇩
-</h2> -->
+<h2 align="left">
+  Hi! My name is Fadhil, I'm a <b>Full-Stack Developer</b> & <b>UI/UX Designer</b> from Indonesia 🇮🇩
+</h2>
 
-<div>
+<!-- <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=109&section=header&reversal=false&text=YO%20What's%20Up&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
+</div> -->
 
 ###
 
